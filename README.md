@@ -9,7 +9,7 @@ The task is to create a server to host the frontend (Chef) and an API backend (F
 
 ### Installation
 1.⁠ ⁠Clone the repository:
-git clone https://github.com/naomikonlack/FarmertoClient/actions. 
+git clone [https://github.com/naomikonlack/FarmertoClient/actions](https://github.com/naomikonlack/FarmertoClient). 
 
 #Navigate to the project directory:
 cd repository3. 
